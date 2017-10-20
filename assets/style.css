@@ -1,0 +1,52 @@
+
+html{font-family: 'Rock Salt', cursive;
+	color:#D4AF37;
+	background-color: #01869F; 
+	
+
+}
+
+.body{
+background-color: black;
+color:#D4AF37;}
+
+.header{
+
+		font-size: 50px;
+		color:#D4AF37;
+		margin-top: 0px;
+		height: 80px;
+		line-height: 80px;
+}
+
+.instructions{
+
+
+
+
+}
+
+
+.numberToMatch{
+	
+	}
+	
+
+.winsAndLosses{
+
+	
+
+
+}
+
+.userTotal{
+
+
+		height: 200px;
+
+}
+
+.gemImage{
+	height: 200px;
+	width: 200px;
+}
